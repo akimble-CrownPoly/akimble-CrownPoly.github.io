@@ -24,16 +24,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Alexander Kimble</o:Author>
   <o:LastAuthor>Alexander Kimble</o:LastAuthor>
-  <o:Revision>18</o:Revision>
-  <o:TotalTime>244</o:TotalTime>
+  <o:Revision>15</o:Revision>
+  <o:TotalTime>224</o:TotalTime>
   <o:Created>2023-06-16T20:26:00Z</o:Created>
-  <o:LastSaved>2024-05-20T23:04:00Z</o:LastSaved>
-  <o:Pages>30</o:Pages>
-  <o:Words>2217</o:Words>
-  <o:Characters>12640</o:Characters>
-  <o:Lines>105</o:Lines>
-  <o:Paragraphs>29</o:Paragraphs>
-  <o:CharactersWithSpaces>14828</o:CharactersWithSpaces>
+  <o:LastSaved>2023-06-29T02:07:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2142</o:Words>
+  <o:Characters>12216</o:Characters>
+  <o:Lines>101</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14330</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -54,9 +54,6 @@ target="FanucRobotOperatorSOPen_files/props088.xml">
 href="FanucRobotOperatorSOPen_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:View>Print</w:View>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -682,7 +679,7 @@ href="FanucRobotOperatorSOPen_files/colorschememapping.xml">
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:3 0 0 0 1 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -1339,18 +1336,13 @@ span.BalloonTextChar
 	mso-ascii-font-family:"Segoe UI";
 	mso-hansi-font-family:"Segoe UI";
 	mso-bidi-font-family:"Segoe UI";}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
 	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
@@ -1410,9 +1402,9 @@ div.WordSection3
 	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1
-	{mso-list-id:340350598;
+	{mso-list-id:540168119;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-765299102 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+	mso-list-template-ids:1823627886 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
 @list l1:level1
 	{mso-level-text:"%1\)";
 	mso-level-tab-stop:none;
@@ -1457,9 +1449,9 @@ div.WordSection3
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l2
-	{mso-list-id:540168119;
+	{mso-list-id:568153532;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1823627886 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+	mso-list-template-ids:227829316 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
 @list l2:level1
 	{mso-level-text:"%1\)";
 	mso-level-tab-stop:none;
@@ -1504,112 +1496,112 @@ div.WordSection3
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l3
-	{mso-list-id:568153532;
-	mso-list-type:hybrid;
-	mso-list-template-ids:227829316 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l3:level1
-	{mso-level-text:"%1\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level3
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l3:level4
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level5
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level6
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l3:level7
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level8
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l3:level9
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l4
 	{mso-list-id:705638861;
 	mso-list-type:hybrid;
 	mso-list-template-ids:526924170 86669412 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l4:level1
+@list l3:level1
 	{mso-level-text:"%1\)";
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:20.25pt;
 	text-indent:-.25in;}
-@list l4:level2
+@list l3:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:56.25pt;
 	text-indent:-.25in;}
-@list l4:level3
+@list l3:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	margin-left:92.25pt;
 	text-indent:-9.0pt;}
-@list l4:level4
+@list l3:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:128.25pt;
 	text-indent:-.25in;}
-@list l4:level5
+@list l3:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:164.25pt;
 	text-indent:-.25in;}
-@list l4:level6
+@list l3:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	margin-left:200.25pt;
 	text-indent:-9.0pt;}
-@list l4:level7
+@list l3:level7
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:236.25pt;
 	text-indent:-.25in;}
-@list l4:level8
+@list l3:level8
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:272.25pt;
 	text-indent:-.25in;}
-@list l4:level9
+@list l3:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	margin-left:308.25pt;
 	text-indent:-9.0pt;}
-@list l5
+@list l4
 	{mso-list-id:1575357949;
 	mso-list-type:hybrid;
 	mso-list-template-ids:2095370994 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5
+	{mso-list-id:1578713231;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2053899482 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
 @list l5:level1
 	{mso-level-text:"%1\)";
 	mso-level-tab-stop:none;
@@ -1654,11 +1646,11 @@ div.WordSection3
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l6
-	{mso-list-id:1578713231;
+	{mso-list-id:1678263544;
 	mso-list-type:hybrid;
-	mso-list-template-ids:2053899482 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+	mso-list-template-ids:-791508016 -1315785636 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
 @list l6:level1
-	{mso-level-text:"%1\)";
+	{mso-level-text:"\(%1\)";
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-.25in;}
@@ -1701,11 +1693,11 @@ div.WordSection3
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l7
-	{mso-list-id:1678263544;
+	{mso-list-id:2061704510;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-791508016 -1315785636 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+	mso-list-template-ids:-1526317170 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
 @list l7:level1
-	{mso-level-text:"\(%1\)";
+	{mso-level-text:"%1\)";
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-.25in;}
@@ -1743,53 +1735,6 @@ div.WordSection3
 	mso-level-number-position:left;
 	text-indent:-.25in;}
 @list l7:level9
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l8
-	{mso-list-id:2061704510;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1526317170 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l8:level1
-	{mso-level-text:"%1\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level3
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l8:level4
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level5
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level6
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l8:level7
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level8
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
@@ -1849,348 +1794,328 @@ Robot<o:p></o:p></span></b></p>
  line-height:105%'><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
  style='mso-element:field-separator'></span></span></b><![endif]--><span
- class=MsoHyperlink><a href="#_Toc167113505">Safety<span style='color:windowtext;
+ class=MsoHyperlink><a href="#_Toc138871685">Safety<span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113505 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871685 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>3</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500300035000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600380035000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span><span style='font-size:11.0pt;
  line-height:105%'><w:sdtPr></w:sdtPr></span></p>
- <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc167113506">HMI
+ <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc138871686">HMI
  Navigation<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113506 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871686 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>5</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500300036000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600380036000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113507">MAIN<span
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871687">MAIN<span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113507 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871687 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>5</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500300037000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600380037000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc167113508">Beacon
+ <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc138871688">Beacon
  Lights<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
  none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113508 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871688 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>9</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500300038000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600380038000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc167113509">Standard
+ <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc138871689">Standard
  Operation<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113509 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871689 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>9</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500300039000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600380039000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113510">Indexing a
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871690">Indexing a
  Pallet<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
  none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113510 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871690 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>9</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310030000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390030000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113511">Clearing a
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871691">Clearing a
  Buffer<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
  none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113511 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871691 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>14</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310031000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390031000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc167113512">Adjust the
+ <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc138871692">Adjust the
  Number of Cases<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113512 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871692 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>16</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310032000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390032000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc167113513">Robot
+ <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc138871693">Robot
  Faults and Errors<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113513 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871693 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>20</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310033000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390033000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113514">Dropped Box<span
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871694">Dropped Box<span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113514 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871694 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>21</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310034000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390034000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113515">Smashed Box<span
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871695">Smashed Box<span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113515 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871695 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>21</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310035000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390035000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113516">A-B-A Error<span
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871696">A-B-A Error<span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113516 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871696 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>22</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310036000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390036000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113517">Barcode
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871697">Barcode
  Read Error<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113517 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871697 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>28</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310037000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390037000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113518">Incorrect
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871698">Incorrect
  Index Time<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113518 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871698 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>28</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310038000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390038000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113519">Buffer
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871699">Buffer
  Mismatch Error<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113519 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871699 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>28</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500310039000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003600390039000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113520">MAIN Page
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871700">MAIN Page
  Disappeared<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113520 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871700 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>29</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500320030000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003700300030000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113521">Robot Won’t
+ <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc138871701">Robot Won’t
  Place Box on Pallet<span style='color:windowtext;display:none;mso-hide:screen;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
  text-underline:none'><span style='mso-element:field-begin'></span></span><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113521 \h </span><span style='color:windowtext;
+ text-underline:none'> PAGEREF _Toc138871701 \h </span><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-separator'></span></span><![endif]--><span
  style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>30</span><span style='color:windowtext;display:none;
+ text-underline:none'>1</span><span style='color:windowtext;display:none;
  mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500320031000000</w:data>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330038003800370031003700300031000000</w:data>
  </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
  display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
  style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
- mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
- standardcontextual'><o:p></o:p></span></p>
- <p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc167113522">Robot is
- Stuck and Not Responding with No Errors<span style='color:windowtext;
- display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
- style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'><span style='mso-element:field-begin'></span></span><span
- style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'> PAGEREF _Toc167113522 \h </span><span style='color:windowtext;
- display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
- style='mso-element:field-separator'></span></span><![endif]--><span
- style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
- text-underline:none'>30</span><span style='color:windowtext;display:none;
- mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360037003100310033003500320032000000</w:data>
- </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
- display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
- style='mso-element:field-end'></span></span><![endif]--></a></span><span
- style='font-size:12.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+ style='font-size:11.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ligatures:
  standardcontextual'><o:p></o:p></span></p>
  <p class=MsoNormal><!--[if supportFields]><b><span style='font-size:12.0pt;
@@ -2203,7 +2128,7 @@ style='mso-special-character:line-break;page-break-before:always'>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h1><a name="_Toc167113505">Safety</a></h1>
+<h1><a name="_Toc138871685">Safety</a></h1>
 
 <p class=MsoNormal><b>Do not enter robot operation zone while robot is on. <o:p></o:p></b></p>
 
@@ -2267,8 +2192,8 @@ AAQA8wAAAHkFAAAAAA==
   <![endif]></v:textbox>
  <w:wrap type="none"/>
  <w:anchorlock/>
-</v:shape><![endif]--><![if !vml]><img width=451 height=54
-src="FanucRobotOperatorSOPen_files/image001.png"
+</v:shape><![endif]--><![if !vml]><img width=451 height=55
+src="FanucRobotOperatorSOPen_files/image002.png"
 alt="Text Box: Follow proper procedure for entering robot cell. Make sure the robot has stopped moving and always bring key with you when entering.&#13;&#10;&#13;&#10;"
 v:shapes="Text_x0020_Box_x0020_2"><![endif]><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -2312,7 +2237,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_2" o:spid="_x0000_i1073"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image003.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=331 height=430
-src="FanucRobotOperatorSOPen_files/image005.jpg" alt=Image v:shapes="Picture_x0020_2"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image027.jpg" alt=Image v:shapes="Picture_x0020_2"><![endif]></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><i>E-stop location<o:p></o:p></i></p>
 
@@ -2329,9 +2254,9 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_61" o:spid="_x0000_i1072"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image004.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=82 height=74
-src="FanucRobotOperatorSOPen_files/image007.png" v:shapes="Picture_x0020_61"><![endif]></span><span
+src="FanucRobotOperatorSOPen_files/image029.png" v:shapes="Picture_x0020_61"><![endif]></span><span
 style='font-size:18.0pt;line-height:105%'>Overhead objects: Watch out for robot
-overhead when in <span class=GramE>cell</span><o:p></o:p></span></p>
+overhead when in cell<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:105%;mso-no-proof:
 yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_62" o:spid="_x0000_i1071"
@@ -2339,9 +2264,9 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_62" o:spid="_x0000_i1071"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=85 height=73
-src="FanucRobotOperatorSOPen_files/image009.png" v:shapes="Picture_x0020_62"><![endif]></span><span
-style='font-size:18.0pt;line-height:105%'>Falling objects: Be aware of dropped <span
-class=GramE>boxes</span><o:p></o:p></span></p>
+src="FanucRobotOperatorSOPen_files/image038.png" v:shapes="Picture_x0020_62"><![endif]></span><span
+style='font-size:18.0pt;line-height:105%'>Falling objects: Be aware of dropped
+boxes<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:105%;mso-no-proof:
 yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_63" o:spid="_x0000_i1070"
@@ -2349,7 +2274,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_63" o:spid="_x0000_i1070"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image008.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=85 height=73
-src="FanucRobotOperatorSOPen_files/image011.png" v:shapes="Picture_x0020_63"><![endif]></span><span
+src="FanucRobotOperatorSOPen_files/image040.png" v:shapes="Picture_x0020_63"><![endif]></span><span
 style='font-size:18.0pt;line-height:105%'>Electrical: High voltage used<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:105%;mso-no-proof:
@@ -2358,20 +2283,19 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_64" o:spid="_x0000_i1069"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image010.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=91 height=79
-src="FanucRobotOperatorSOPen_files/image013.png" v:shapes="Picture_x0020_64"><![endif]></span><span
+src="FanucRobotOperatorSOPen_files/image041.png" v:shapes="Picture_x0020_64"><![endif]></span><span
 style='font-size:18.0pt;line-height:105%'>Tripping hazard: Cable guards are
-tripping <span class=GramE>hazard</span><o:p></o:p></span></p>
+tripping hazard<o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=GramE><span style='font-size:18.0pt;line-height:
-105%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_65"
- o:spid="_x0000_i1068" type="#_x0000_t75" style='width:67.5pt;height:58.5pt;
- visibility:visible;mso-wrap-style:square'>
+<p class=MsoNormal><span style='font-size:18.0pt;line-height:105%;mso-no-proof:
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_65" o:spid="_x0000_i1068"
+ type="#_x0000_t75" style='width:67.5pt;height:58.5pt;visibility:visible;
+ mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image012.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=90 height=78
-src="FanucRobotOperatorSOPen_files/image014.png" v:shapes="Picture_x0020_65"><![endif]></span><span
-style='font-size:18.0pt;line-height:105%'>Fork lifts</span></span><span
-style='font-size:18.0pt;line-height:105%'> and industrial vehicles: Be aware of
-moving vehicles around robot<o:p></o:p></span></p>
+src="FanucRobotOperatorSOPen_files/image044.png" v:shapes="Picture_x0020_65"><![endif]></span><span
+style='font-size:18.0pt;line-height:105%'>Fork lifts and industrial vehicles:
+Be aware of moving vehicles around robot<o:p></o:p></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -2387,12 +2311,12 @@ style='mso-special-character:line-break;page-break-before:always'>
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:major-fareast;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><o:p>&nbsp;</o:p></span></b></p>
 
-<h1><a name="_Toc167113506">HMI Navigation</a></h1>
+<h1><a name="_Toc138871686">HMI Navigation</a></h1>
 
-<p class=MsoNormal>Whenever possible, avoid using the HMI. <span class=GramE>However</span>
-certain situations arise where it may be necessary to navigate the HMI.</p>
+<p class=MsoNormal>Whenever possible, avoid using the HMI. However certain
+situations arise where it may be necessary to navigate the HMI.</p>
 
-<h2><a name="_Toc167113507">MAIN</a></h2>
+<h2><a name="_Toc138871687">MAIN</a></h2>
 
 <p class=MsoNormal>&gt;&gt; Press (MENU) Button &gt;&gt; Tap [MAIN] on the
 screen</p>
@@ -2414,7 +2338,7 @@ screen</p>
  <v:handles>
   <v:h position="#0,#1" xrange="0,21600" yrange="0,10800"/>
  </v:handles>
-</v:shapetype><v:shape id="Arrow_x003a__x0020_Right_x0020_1620446189" o:spid="_x0000_s2084"
+</v:shapetype><v:shape id="Arrow_x003a__x0020_Right_x0020_1834650687" o:spid="_x0000_s2084"
  type="#_x0000_t13" style='position:absolute;margin-left:96.5pt;margin-top:188.9pt;
  width:62.6pt;height:21.05pt;z-index:251747328;visibility:visible;
  mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
@@ -2473,8 +2397,8 @@ b3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAD+BQAAAAA=
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
 absolute;z-index:251747328;margin-left:128px;margin-top:249px;width:90px;
 height:38px'><img width=90 height=38
-src="FanucRobotOperatorSOPen_files/image015.png" v:shapes="Arrow_x003a__x0020_Right_x0020_1620446189"></span><![endif]><!--[if gte vml 1]><v:shape
- id="Arrow_x003a__x0020_Right_x0020_290071373" o:spid="_x0000_s2083" type="#_x0000_t13"
+src="FanucRobotOperatorSOPen_files/image045.png" v:shapes="Arrow_x003a__x0020_Right_x0020_1834650687"></span><![endif]><!--[if gte vml 1]><v:shape
+ id="Arrow_x003a__x0020_Right_x0020_172708391" o:spid="_x0000_s2083" type="#_x0000_t13"
  style='position:absolute;margin-left:122.45pt;margin-top:272.6pt;width:62.6pt;
  height:21.05pt;z-index:251701248;visibility:visible;mso-wrap-style:square;
  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
@@ -2532,18 +2456,18 @@ b3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAD+BQAAAAA=
   <![endif]></v:textbox>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
 absolute;z-index:251701248;margin-left:162px;margin-top:361px;width:91px;
-height:37px'><img width=91 height=37
-src="FanucRobotOperatorSOPen_files/image017.png" v:shapes="Arrow_x003a__x0020_Right_x0020_290071373"></span><![endif]><span
+height:38px'><img width=91 height=38
+src="FanucRobotOperatorSOPen_files/image047.png" v:shapes="Arrow_x003a__x0020_Right_x0020_172708391"></span><![endif]><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
 yes'><!--[if gte vml 1]><v:shape id="_x0000_i1067" type="#_x0000_t75" alt="Image"
  style='width:468pt;height:351pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image016.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=624 height=468
-src="FanucRobotOperatorSOPen_files/image018.jpg" alt=Image v:shapes="_x0000_i1067"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image049.jpg" alt=Image v:shapes="_x0000_i1067"><![endif]></span></p>
 
 <p class=MsoNormal>This will bring you to the MAIN screen (see Next Page)</p>
 
-<p class=MsoNormal><!--[if gte vml 1]><o:wrapblock><v:shape id="Text_x0020_Box_x0020_1942422684"
+<p class=MsoNormal><!--[if gte vml 1]><o:wrapblock><v:shape id="Text_x0020_Box_x0020_1094134661"
   o:spid="_x0000_s2082" type="#_x0000_t202" style='position:absolute;
   margin-left:1.05pt;margin-top:22.35pt;width:42.65pt;height:20.7pt;z-index:251703296;
   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -2600,12 +2524,12 @@ AACtBQAAAAA=
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
   <tr>
-   <td width=0 height=29></td>
+   <td width=0 height=28></td>
   </tr>
   <tr>
    <td></td>
-   <td><img width=63 height=34 src="FanucRobotOperatorSOPen_files/image019.png"
-   alt="Text Box: MAIN" v:shapes="Text_x0020_Box_x0020_1942422684"></td>
+   <td><img width=63 height=34 src="FanucRobotOperatorSOPen_files/image052.png"
+   alt="Text Box: MAIN" v:shapes="Text_x0020_Box_x0020_1094134661"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br clear=all
@@ -2639,7 +2563,7 @@ mso-break-type:section-break'>
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
- id="Text_x0020_Box_x0020_1242331751" o:spid="_x0000_s2081" type="#_x0000_t202"
+ id="Text_x0020_Box_x0020_228781075" o:spid="_x0000_s2081" type="#_x0000_t202"
  style='position:absolute;left:0;text-align:left;margin-left:-6pt;margin-top:53.85pt;
  width:48.55pt;height:20.7pt;z-index:251705344;visibility:visible;
  mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
@@ -2682,17 +2606,17 @@ AAAArgUAAAAA
 " fillcolor="yellow" strokeweight=".5pt">
  <v:path arrowok="t"/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-relative;z-index:251705344;left:-9px;top:71px;width:71px;height:105px'>
+relative;z-index:251705344;left:-9px;top:71px;width:71px;height:104px'>
 
 <table cellpadding=0 cellspacing=0>
  <tr>
-  <td width=72 height=34 bgcolor=yellow style='border:.5pt solid black;
+  <td width=72 height=33 bgcolor=yellow style='border:.5pt solid black;
   vertical-align:top;background:yellow'><![endif]><![if !mso]><span
   style='position:absolute;mso-ignore:vglayout;left:0pt;z-index:251705344'>
   <table cellpadding=0 cellspacing=0 width="100%">
    <tr>
     <td><![endif]>
-    <div v:shape="Text_x0020_Box_x0020_1242331751" style='padding:4.1pt 7.7pt 4.1pt 7.7pt'
+    <div v:shape="Text_x0020_Box_x0020_228781075" style='padding:4.1pt 7.7pt 4.1pt 7.7pt'
     class=shape>
     <p class=MsoNormal>Buffers</p>
     </div>
@@ -2735,9 +2659,9 @@ mso-break-type:section-break'>
 
 <div class=WordSection3>
 
-<h1><a name="_Toc167113508">Beacon Lights</a></h1>
+<h1><a name="_Toc138871688">Beacon Lights</a></h1>
 
-<p class=MsoNormal><!--[if gte vml 1]><v:group id="Group_x0020_746356191"
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="Group_x0020_1129348968"
  o:spid="_x0000_s2072" style='position:absolute;margin-left:8.1pt;margin-top:18.15pt;
  width:63.25pt;height:264.8pt;z-index:251679744' coordsize="8030,33631"
  o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
@@ -2968,8 +2892,8 @@ AAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA+QIAAAAA
   strokeweight="1pt">
   <v:stroke joinstyle="miter"/>
  </v:shape><w:wrap type="square"/>
-</v:group><![endif]--><![if !vml]><img width=86 height=356
-src="FanucRobotOperatorSOPen_files/image020.png" align=left v:shapes="Group_x0020_746356191 Cylinder_x0020_68 Cylinder_x0020_71 Cylinder_x0020_70 Cylinder_x0020_74 Cylinder_x0020_69 Cylinder_x0020_75 Cylinder_x0020_67 Cylinder_x0020_76"><![endif]>There
+</v:group><![endif]--><![if !vml]><img width=86 height=355
+src="FanucRobotOperatorSOPen_files/image053.png" align=left v:shapes="Group_x0020_1129348968 Cylinder_x0020_68 Cylinder_x0020_71 Cylinder_x0020_70 Cylinder_x0020_74 Cylinder_x0020_69 Cylinder_x0020_75 Cylinder_x0020_67 Cylinder_x0020_76"><![endif]>There
 are four beacon lights on the robot. Each has a different meaning.</p>
 
 <p class=MsoNormal>The red light indicates that the robot has a fault. The
@@ -2991,7 +2915,7 @@ made. </p>
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal>The blue light indicates that a pallet is full and ready to
-be <span class=GramE>removed</span></p>
+be removed</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -3003,14 +2927,12 @@ be <span class=GramE>removed</span></p>
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:major-fareast;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><o:p>&nbsp;</o:p></span></b></p>
 
-<h1><a name="_Toc167113509">Standard Operation</a></h1>
+<h1><a name="_Toc138871689">Standard Operation</a></h1>
 
-<h2><a name="_Toc167113510">Indexing a Pallet</a></h2>
+<h2><a name="_Toc138871690">Indexing a Pallet</a></h2>
 
-<p class=MsoNormal><a name="_Hlk54182549">The robot runs autonomously and only
-requires human interaction when a pallet is </a><span class=GramE><span
-style='mso-bookmark:_Hlk54182549'>full</span></span><span style='mso-bookmark:
-_Hlk54182549'> or a fault occurs.</span></p>
+<p class=MsoNormal><a name="_Hlk54182549">The robot runs autonomously and only requires
+human interaction when a pallet is full or a fault occurs.</a></p>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk54182549'>When a pallet is
 fully loaded, the indicator light shines blue as shown. </span></p>
@@ -3021,16 +2943,16 @@ style='mso-bookmark:_Hlk54182549'><span style='mso-no-proof:yes'><!--[if gte vml
  height:207.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image117.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=468 height=277
-src="FanucRobotOperatorSOPen_files/image023.png" v:shapes="Picture_x0020_11"><![endif]></span></span></p>
+src="FanucRobotOperatorSOPen_files/image056.png" v:shapes="Picture_x0020_11"><![endif]></span></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-bookmark:_Hlk54182549'><i>Indicator lights<o:p></o:p></i></span></p>
 
 <p class=MsoListBulletCxSpFirst style='mso-list:none;tab-stops:.5in'><span
-style='mso-bookmark:_Hlk54182549'><i style='mso-bidi-font-style:normal'>If you
-are already familiar with standard pallet replacement </i><span
-style='mso-bidi-font-style:italic'>procedures</span><i style='mso-bidi-font-style:
-normal'>, continue as you have done.<o:p></o:p></i></span></p>
+style='mso-bookmark:_Hlk54182549'><i style='mso-bidi-font-style:normal'>If you are
+already familiar with standard pallet replacement </i><span style='mso-bidi-font-style:
+italic'>procedures</span><i style='mso-bidi-font-style:normal'>, continue as
+you have done.<o:p></o:p></i></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:0in;mso-add-space:auto;
 text-indent:0in;mso-list:none;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><span
@@ -3042,7 +2964,7 @@ style='mso-bidi-font-style:italic'>Standard pallet replacement procedure is as
 follows:<o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Press
@@ -3061,7 +2983,7 @@ v:shapes="Picture_x0020_12"><![endif]></span><span style='mso-bidi-font-style:
 italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Wait
@@ -3080,7 +3002,7 @@ v:shapes="Picture_x0020_13"><![endif]></span><span style='mso-bidi-font-style:
 italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Remove
@@ -3104,12 +3026,11 @@ _Hlk54182549'><i style='mso-bidi-font-style:normal'>The robot cell is now safe
 to enter.<o:p></o:p></i></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Remove <span
-class=GramE>full</span> pallet. Using Toyota pallet mover, remove the pallet
-from the robot cell.<o:p></o:p></span></span></p>
+</span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Remove
+full pallet. Using Toyota pallet mover, remove the pallet from the robot cell.<o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle align=center style='margin-left:20.25pt;
 mso-add-space:auto;text-align:center;text-indent:0in;mso-list:none;tab-stops:
@@ -3118,11 +3039,11 @@ mso-add-space:auto;text-align:center;text-indent:0in;mso-list:none;tab-stops:
  height:279.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image137.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=280 height=373
-src="FanucRobotOperatorSOPen_files/image024.png" v:shapes="Picture_x0020_8"><![endif]></span><span
+src="FanucRobotOperatorSOPen_files/image060.png" v:shapes="Picture_x0020_8"><![endif]></span><span
 style='mso-bidi-font-style:italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Place
@@ -3137,16 +3058,15 @@ mso-add-space:auto;text-align:center;text-indent:0in;mso-list:none;tab-stops:
  style='width:351pt;height:153.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image031.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=468 height=205
-src="FanucRobotOperatorSOPen_files/image030.jpg" alt=Image v:shapes="Picture_x0020_16"><![endif]></span><span
+src="FanucRobotOperatorSOPen_files/image063.jpg" alt=Image v:shapes="Picture_x0020_16"><![endif]></span><span
 style='mso-bidi-font-style:italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Exit
-cell and return Key. <span class=GramE>Turn key</span> and make sure the
-indicator light turns off.<o:p></o:p></span></span></p>
+cell and return Key. Turn key and make sure the indicator light turns off.<o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle align=center style='margin-left:20.25pt;
 mso-add-space:auto;text-align:center;text-indent:0in;mso-list:none;tab-stops:
@@ -3161,7 +3081,7 @@ v:shapes="Picture_x0020_17"><![endif]></span><span style='mso-bidi-font-style:
 italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>7)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Press
@@ -3180,11 +3100,11 @@ v:shapes="Picture_x0020_18"><![endif]></span><span style='mso-bidi-font-style:
 italic'><o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle style='margin-left:20.25pt;mso-add-space:auto;
-mso-list:l4 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+mso-list:l3 level1 lfo2;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-style:
 italic'><span style='mso-list:Ignore'>8)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-bidi-font-style:italic'>Press
-the green button to start the <span class=GramE>robot</span><o:p></o:p></span></span></p>
+the green button to start the robot<o:p></o:p></span></span></p>
 
 <p class=MsoListBulletCxSpMiddle align=center style='text-align:center;
 mso-list:none;tab-stops:.5in'><span style='mso-bookmark:_Hlk54182549'><span
@@ -3205,36 +3125,36 @@ robot is now operational again. <o:p></o:p></span></span></p>
 <p class=MsoListBulletCxSpLast style='mso-list:none;tab-stops:.5in'><span
 style='mso-bookmark:_Hlk54182549'><span style='mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></span></p>
 
-<h2><span style='mso-bookmark:_Hlk54182549'><a name="_Toc167113511">Clearing a
+<h2><span style='mso-bookmark:_Hlk54182549'><a name="_Toc138871691">Clearing a
 Buffer</a></span></h2>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk54182549'>Sometimes, such as
-at the end of an order, it is necessary to physically clear <span class=GramE>a
-buffer</span> of the robot. Here is the procedure to do this.</span></p>
+at the end of an order, it is necessary to physically clear a buffer of the
+robot. Here is the procedure to do this.</span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>1)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Press
 the yellow button to stop the robot and remove the safety key. </span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>2)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Physically
 remove the cases from the buffer. Place them outside the robot cell.</span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>3)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Exit
 the robot cell and return the safety key, but do not start the robot.</span></p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>4)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>In
-the HMI, navigate to the buffers <span class=GramE>screen</span></span></p>
+the HMI, navigate to the buffers screen</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-bookmark:_Hlk54182549'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -3246,15 +3166,14 @@ src="FanucRobotOperatorSOPen_files/image036.png"
 alt="A screen shot of a computer&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_20"><![endif]></span></span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>5)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Then,
-to clear a buffer in the HMI press <b>both</b> [<span class=SpellE>clr</span>]
-buttons for that buffer.</span></p>
+to clear a buffer in the HMI press <b>both</b> [clr] buttons for that buffer.</span></p>
 
 <p class=MsoListParagraphCxSpMiddle align=center style='text-align:center;
-text-indent:-.25in;mso-list:l3 level1 lfo3'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
+text-indent:-.25in;mso-list:l2 level1 lfo3'><span style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -3266,7 +3185,7 @@ src="FanucRobotOperatorSOPen_files/image037.png"
 alt="A screen shot of a computer&#10;&#10;Description automatically generated with low confidence"
 v:shapes="Picture_x0020_21"><![endif]></span></span></p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l3 level1 lfo3'><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo3'><span
 style='mso-bookmark:_Hlk54182549'><![if !supportLists]><span style='mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>7)<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Press
@@ -3274,12 +3193,11 @@ the blue button and then the green button to start the robot.</span><br
 clear=all style='mso-special-character:line-break;page-break-before:always'>
 </p>
 
-<h1><a name="_Toc167113512">Adjust the Number of Cases</a></h1>
+<h1><a name="_Toc138871692">Adjust the Number of Cases</a></h1>
 
 <p class=MsoNormal><b><u>ADJUST<o:p></o:p></u></b></p>
 
-<p class=MsoNormal>If the robot <span class=GramE>is</span> not stopped, press
-the yellow button.</p>
+<p class=MsoNormal>If the robot is not stopped, press the yellow button.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_22"
@@ -3291,17 +3209,17 @@ src="FanucRobotOperatorSOPen_files/image039.png"
 alt="A close-up of a control panel&#10;&#10;Description automatically generated with low confidence"
 v:shapes="Picture_x0020_22"><![endif]></span></p>
 
-<p class=MsoNormal>Press the Function (<span class=SpellE>FCTN</span>) Button
-on the HMI. This will bring up the function popout.</p>
+<p class=MsoNormal>Press the Function (FCTN) Button on the HMI. This will bring
+up the function popout.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
-yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_23" o:spid="_x0000_i1052"
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_25" o:spid="_x0000_i1052"
  type="#_x0000_t75" alt="Image" style='width:377.25pt;height:289.5pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image084.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=503 height=386
-src="FanucRobotOperatorSOPen_files/image032.jpg" alt=Image v:shapes="Picture_x0020_23"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image066.jpg" alt=Image v:shapes="Picture_x0020_25"><![endif]></span></p>
 
 <p class=MsoNormal>Select ABORT (ALL) by tapping [ABORT (ALL)] or pressing (1).</p>
 
@@ -3330,12 +3248,11 @@ position.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
-yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_25" o:spid="_x0000_i1050"
- type="#_x0000_t75" alt="Image" style='width:372.75pt;height:273.75pt;
- visibility:visible;mso-wrap-style:square'>
+yes'><!--[if gte vml 1]><v:shape id="_x0000_i1050" type="#_x0000_t75" alt="Image"
+ style='width:372.75pt;height:273.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image091.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=497 height=365
-src="FanucRobotOperatorSOPen_files/image042.jpg" alt=Image v:shapes="Picture_x0020_25"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image069.jpg" alt=Image v:shapes="_x0000_i1050"><![endif]></span></p>
 
 <p class=MsoNormal>Press (ENTER)</p>
 
@@ -3349,7 +3266,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_28" o:spid="_x0000_i1049"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image094.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=506 height=364
-src="FanucRobotOperatorSOPen_files/image046.jpg" alt=Image v:shapes="Picture_x0020_28"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image070.jpg" alt=Image v:shapes="Picture_x0020_28"><![endif]></span></p>
 
 <p class=MsoNormal>This will bring you to this screen:</p>
 
@@ -3360,12 +3277,12 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_27" o:spid="_x0000_i1048"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image097.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=451 height=324
-src="FanucRobotOperatorSOPen_files/image048.jpg" alt=Image v:shapes="Picture_x0020_27"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image073.jpg" alt=Image v:shapes="Picture_x0020_27"><![endif]></span></p>
 
 <p class=MsoNormal>Here you can go through and adjust the number of cases on
 each pallet.</p>
 
-<p class=MsoNormal>CYC# - the pallet number going <span class=GramE>clockwise</span></p>
+<p class=MsoNormal>CYC# - the pallet number going clockwise</p>
 
 <p class=MsoNormal align=center style='text-align:center'><!--[if mso & !supportInlineShapes & supportFields]><span
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
@@ -3383,58 +3300,58 @@ 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
-IQBCNIg4XwkAAFVCAAAOAAAAZHJzL2Uyb0RvYy54bWzsXG2PozgS/n7S/gfEx5N2YhvMSzSZ1W7P
-zemkfdN13w+gCUnQEsgC3enZX79P2UBMEpL0TDpa7dEfEgjloux6L5f7/Xcv68x6TsoqLfKZzd8x
-20ryuJin+XJm/+/h07eBbVV1lM+jrMiTmf05qezvPnzzj/fbzTQRxarI5klpAUleTbebmb2q6810
-MqniVbKOqnfFJsnxcFGU66jGbbmczMtoC+zrbCIY8ybbopxvyiJOqgq/ftQP7Q8K/2KRxPUvi0WV
-1FY2s0FbrT5L9flIn5MP76Ppsow2qzRuyIi+gIp1lOZ4aYfqY1RH1lOZHqBap3FZVMWifhcX60mx
-WKRxouaA2XC2N5u7KH+OKjWZGKvTEoirK+J9XBLdVZGl809plqmbcvl4l5XWc4RV+6T+aKEmPbAJ
-yJjSYPregpEJQLYbsLHadAytvo7Q+1W0SdT8q2n88/OvpZXOIWVMMsl97vq2lUdrSNV/wecoX2aJ
-JTgnUokODLjf/FqqCW1+LOLfKisv7laAS74vy2K7SqI56FPwmIwxgG4qDLUetz8Vc+CPnupCsfdl
-Ua4JIRhnvWCs8FnAhG19ntkulx53tUAlL7UV0/PQ8RjELsZz7jOPec06tng2ZVX/OynWFl3M7BLz
-UO+Jnn+sar3kLcghl0hHko5P89+4Gpo9rUG05h1n9Kdpwu9QBf27+onY2aLYZ240zXJrqyfIFNq+
-gLTjNLpjr5Zf/OZ1WsMkZOl6ZgcG/cSuf+VzLEo0raM009eYRJaD+pZlmvWPxfwz2FcWWt9hn3Cx
-Kso/bGsLXZ/Z1e9PUZnYVvafHCIQctcl46BuXOkL3JTmk0fzSZTHQDWz47q0LX1zV2uT8rQp0+UK
-79KsyIvvITiLVHGSKNR0NeRCT26kMMJxwA4ehq2+3NdlRIRad0WeQ+aK0oIxNRTnLteKE7/k93u6
-o3Ty4fMGatFTHT2k5cN51eGBHzaq863n0KVibas6jda4whFaq8DpAa3J0pyMRDQd0Jq8IMOmsGup
-dgIoxhdJ9Vco1NXEmswCLfPt5IdLzkPPCU4KENfGjSiD5b2BAEkRBsxRthcCRGZ4QID4KEClaRdv
-L0DSdx0WOALBoHbYRw2Q6blvID+GAXJk6PI9+XFcHjKufXfrL0cDRH719vLjQtN9h8Krw4BP631j
-dt4+4HOk13gtLhH9yb7REa4HT9sEfDJk+vmw63pdwGeG5T94gS9DejvFcWb0/prIrX65atB4NR83
-hm5trhMKKRGuOEgyDnIdeD/w/1aiz3yvFX0/4L7w+6Ivg8Bt7aV0mc+DRjgHjObrRL+fcDwuryq2
-o8b8jZIdpDnccz3P77IdozrQi1Hf3Fn4nhRNhIqahWR71QGJgKjTGOEG19UY01l8ZD+IUL397+Us
-6pfHF1USUm6YDOGY+ev8q3EfvsOkkIx7h94Dtasbeg/BPMRwiN9QCfMZF+K0LlzZe/xf6YKqMY66
-gPpOExk1uhB6IvRcn6NksB9JcWSmt4ukUOkPw0YXuAh94R4qA3REZxFydAxNAfs1BeDOMXQ2bnQM
-PccQCqSvbgAfcEQZVFp5q7TCFXBSuozHPZTq5F5KjShpVIav2g3plKEzcqMy9JQB23RCBP6xHJs7
-5rbIW2cMSKudtro06sJBZesK5aVOFzobN+pCTxckQ5iEWg7Cj4MoyTEr9G+tC0IgcUEplbbOHcad
-I0HSmD1fxy/wzsaNytBTBkdKLmSw27falZI4vMXtUgYeSL9RhjF7flO/sOsfGnWhpwucS4l9OE8e
-y5+dW+5E0F4ypcfkGY6XVceE4UqOobNxozL0lMENvBBpqS/bKOmnp6xON1kaRzU6Ya37dJmjpaqr
-Phz2ItLGbS/FppvqoqZDbMTJJkvARhzyZ3JE0bTtnNrbiDvcVoifdNOh2TKFztU5Wg7pp+W8ifwe
-EH0t1hn6Yf85scJAuMzaWoTdad64g4Q2dpDc9/xAWCuLdgHDpqtiB4qNzB1o4ArPGcQKS9OBBg4L
-5SBSFJY7SOx0MOkPIgXLOlAeuJzxQayomnegLnMCObwAqKN0oKdJRQ9MB+kGIdLOQVKxg9WBnllV
-hHA7WAetdUEwiBYubgdLPQzcGVwCdMXsYM+QS5XVjl7Hc1HXHMZrcuzM2nKTZWjPDJ1hltFOR0fD
-GUngJtPQ14Gt9mF6TbZBbE6JLTf5doZeajXt6D2tY8Jk25nlFSbb0NqJKHZQHITJtjPigG2bi8k1
-uXZGeoXJNWahZ5rhU0pH7WWYJokKlt16nYY0OXYa0uTXSUgUgy58O1LlSyFNVp1+u8mo05Amm05D
-mlw6DXkxj+AeLp37SR5hr7pzStFKN8RHU7QkN44KV+i/xjmTB8gPea5NUVFXPvktxIYPuj1ZjaCn
-BrjfAwcDCFyFsHgn4PbAgx441pbAVZn6KHjYA8eyEbhymcfAIVMm7VgRAm87uw6IgWCZ4GT3CV6n
-LUfxi/6AZrYw1hSCHJkuYvneG5r5wgoPDXD7A5oZw7wODZD9Ac2cYTeHBvT5S0aTJg2LODRgj8PN
-pGHqhgb0eUx2Tr2hN2m9Wo30Uf/S/qmi0rZwquiRXgJpjGoS2vaSjlM0wZO1wqUOjujpunhOHgoF
-V5P8wg2gWYPeT2ZTF2fw6h1Ylpvg8EaOpyeIyKPrCWyB2u+Nwg3MgvwTIUe/FlZSL0gL1X5raJeB
-SlgIQJ9H7aJd1oWJ2qe7Rdl+a9ROEIhmDxQ+xwnbkzEtVPvdELLDDc/HAhVVYk1aqPb7gGy4X18n
-p4PQxpIgCPD907iN1b4A946VF5ANP42TGmoBL1iSHeqelLQrEWdFRSeyMG0SxO5CSSR+NJOAXvto
-dyZo+GzPV5yCeE2r3Xis6K99rCgUOBHCXAlrvL9VIFi3v3KY+l7/GB62iHmTEbs+Ns6asLHNiAM8
-BZF0Cg/d20HnZ67SmWr2FtFRSbxJq11Pq14j92NT9l/8PB36FGQYSmxQtZL/C47Kot7TbbDfQujh
-I9qzp6EnQ+3ldmWg3tlTEKuLUbD8A1KfZFm6qU4epOtJdHUNwb8MxxX2fcf6Za9+iZPIjhdS8nBg
-uXW82StN4oDJ3iHQax2gpuPROpiHYVaGcyfAwkOZBQdolN0WAg3dfptRDIjwuSMFBwdB6fz2+YOg
-oz3+cnuMGjf+O8AmVvFn838W6J8jmPe4Nv8bxIc/AQAA//8DAFBLAwQUAAYACAAAACEA2EIbIdsA
-AAAFAQAADwAAAGRycy9kb3ducmV2LnhtbEyPwU7DMBBE70j8g7VI3KjdFEoasqkQEqiXglr6AW68
-TSLsdRS7bfh7XC5wWWk0o5m35XJ0VpxoCJ1nhOlEgSCuvem4Qdh9vt7lIELUbLT1TAjfFGBZXV+V
-ujD+zBs6bWMjUgmHQiO0MfaFlKFuyekw8T1x8g5+cDomOTTSDPqcyp2VmVJz6XTHaaHVPb20VH9t
-jw7hY8qZ6e1ifbAr/74eVda8PTjE25vx+QlEpDH+heGCn9ChSkx7f2QThEVIj8Tfm7z7LJ+B2CPM
-HlUOsirlf/rqBwAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAA
-AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAA
-AAAAAAAAAAAALwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAEI0iDhfCQAAVUIAAA4AAAAA
-AAAAAAAAAAAALgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhANhCGyHbAAAABQEAAA8A
-AAAAAAAAAAAAAAAAuQsAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAADBDAAAAAA=
+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
 ">
  <v:shape id="_x0000_s2053" type="#_x0000_t75" style='position:absolute;
   width:27197;height:23545;visibility:visible;mso-wrap-style:square' filled="t">
@@ -3451,13 +3368,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQCeRP3byQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fS8Mw
-EH8X9h3CDXwRl1Sck7psbEOpD/XBug9wNmdb1lxKErvqpzeC4OP9/t96O9lejORD51hDtlAgiGtn
-Om40HN+eru9BhIhssHdMGr4owHYzu1hjbtyZX2msYiNSCIccNbQxDrmUoW7JYli4gThxH85bjOn0
-jTQezync9vJGqTtpsePU0OJAh5bqU/VpNXyP78ei2JV49VIdSl+E/WPZTFpfzqfdA4hIU/wX/7mf
-TZqvlmqZrbLbFfz+lACQmx8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQDbX1HxyQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/NTsJA
+EL6b+A6bMfFiYFuISCoLQQIph3qw8ABDd2wbu7PN7lqqT88eTDx++f5Xm9F0YiDnW8sK0mkCgriy
+uuVawfl0mCxB+ICssbNMCn7Iw2Z9f7fCTNsrf9BQhlrEEPYZKmhC6DMpfdWQQT+1PXHkPq0zGCJ0
+tdQOrzHcdHKWJAtpsOXY0GBPu4aqr/LbKPgdLuc83xb49F7uCpf7t31Rj0o9PozbVxCBxvAv/nMf
+tYJ5unh+mc/SuDleindArm8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
 AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAnkT928kAAADj
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA219R8ckAAADi
 AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
 AA==
 " fillcolor="black [3200]" strokecolor="black [1600]" strokeweight="1pt"/>
@@ -3472,13 +3389,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQB8erL4yQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RagIx
-FETfC/5DuEJfSk3cpa2uRpGKUPpW9QMum+tm281N3KS6/n1TKPRxmJkzzHI9uE5cqI+tZw3TiQJB
-XHvTcqPheNg9zkDEhGyw80wabhRhvRrdLbEy/sofdNmnRmQIxwo12JRCJWWsLTmMEx+Is3fyvcOU
-Zd9I0+M1w10nC6WepcOW84LFQK+W6q/9t9PwwsEFtbPvD6fb9rM8FwffHLda34+HzQJEoiH9h//a
-b0ZDUZZPSk3nc/i9lO+AXP0AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQDy7c02yQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ra8Iw
+FIXfB/6HcIW9jJnazm5Uo4yJMPY29QdcmmtTbW5ik2n998tg4OPhnPMdzmI12E5cqA+tYwXTSQaC
+uHa65UbBfrd5fgMRIrLGzjEpuFGA1XL0sMBKuyt/02UbG5EgHCpUYGL0lZShNmQxTJwnTt7B9RZj
+kn0jdY/XBLedzLOslBZbTgsGPX0Yqk/bH6vglb312cZ8PR1u62Nxzneu2a+VehwP73MQkYZ4D/+3
+P7WCfFYUs/JlWsLfpXQH5PIXAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
 AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAfHqy+MkAAADi
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA8u3NNskAAADi
 AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
 AA==
 " strokecolor="black [3200]" strokeweight="3pt">
@@ -3494,13 +3411,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQBQXlbBxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/dasIw
-FL4f7B3CGexmzLTKnO2MIhNh7M6fBzg0x6Zbc5I1sda3XwTBy/P9n/lysK3oqQuNYwX5KANBXDnd
-cK3gsN+8zkCEiKyxdUwKLhRguXh8mGOp3Zm31O9iLVIIhxIVmBh9KWWoDFkMI+eJE3d0ncWYzq6W
-usNzCretHGfZVFpsODUY9PRpqPrdnayCd/bWZxvz/XK8rH8mf+O9qw9rpZ6fhtUHiEhDvItv7i+d
-5r/leTGdzIoCrj8lAOTiHwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQBAQCEAxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/NTgIx
+EL6b+A7NkHgx0i6CwEohRkJiuPHzAJPtsF3ZTuu2wvL21sTE43z/s1j1rhUX6mLjWUMxVCCIK28a
+rjUcD5unGYiYkA22nknDjSKslvd3CyyNv/KOLvtUixzCsUQNNqVQShkrSw7j0AfizJ185zDls6ul
+6fCaw10rR0q9SIcN5waLgd4tVef9t9Mw5eCC2tjt4+m2/nz+Gh18fVxr/TDo315BJOrTv/jP/WHy
+/IkqZmo8L8bw+1MGQC5/AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA
 AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA
-AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAFBeVsHHAAAA4wAA
+AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAEBAIQDHAAAA4wAA
 AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=
 " strokecolor="black [3200]" strokeweight="3pt">
   <v:stroke joinstyle="miter"/>
@@ -3515,14 +3432,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQCHlw/kxwAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/JasMw
-EL0X+g9iCr2URordLLhRQmkIlN6yfMBgTSwn1kix1MT5++pQ6PHx9sVqcJ24Uh9bzxrGIwWCuPam
-5UbDYb95nYOICdlg55k03CnCavn4sMDK+Btv6bpLjcghHCvUYFMKlZSxtuQwjnwgztzR9w5Thn0j
-TY+3HO46WSg1lQ5bzg0WA31aqs+7H6dhxsEFtbHfL8f7+lReir1vDmutn5+Gj3cQiYb0L/5zfxkN
-k9lbqeZlkTfnS/kOyOUvAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA
-AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA
-AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAIeXD+THAAAA4gAA
-AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=
+AAD//wMAUEsDBBQABgAIAAAAIQBwGBGkyQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/dSgMx
+FITvBd8hnII3YhNXt7Zr0yKWgvSuPw9w2Jxu1m5O4ia227c3guDlMPPNMPPl4Dpxpj62njU8jhUI
+4tqblhsNh/36YQoiJmSDnWfScKUIy8XtzRwr4y+8pfMuNSKXcKxQg00pVFLG2pLDOPaBOHtH3ztM
+WfaNND1ecrnrZKHURDpsOS9YDPRuqT7tvp2GFw4uqLXd3B+vq8+nr2Lvm8NK67vR8PYKItGQ/sN/
+9IfJXPlcFGpWlvB7Kd8BufgBAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAcBgRpMkAAADi
+AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
+AA==
 " strokecolor="black [3200]" strokeweight="3pt">
   <v:stroke joinstyle="miter"/>
  </v:line><v:rect id="Rectangle_x0020_202" o:spid="_x0000_s2058" style='position:absolute;
@@ -3536,15 +3454,14 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQAa6f+mygAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RSsNA
-FETfBf9huULf2t3WksTYbZFCoNhWsPEDLtlrEszeDdm1iX/fFQQfh5k5w2x2k+3ElQbfOtawXCgQ
-xJUzLdcaPspinoHwAdlg55g0/JCH3fb+boO5cSO/0/USahEh7HPU0ITQ51L6qiGLfuF64uh9usFi
-iHKopRlwjHDbyZVSibTYclxosKd9Q9XX5dtqKNLimFWjTexYqq5sT+fXtzRoPXuYXp5BBJrCf/iv
-fTAa1k+ZSh+T5Rp+L8U7ILc3AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA
-AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA
-FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhABrp/6bKAAAA
-4gAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA
-AAA=
+AAD//wMAUEsDBBQABgAIAAAAIQCXUXfrxgAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/basJA
+EH0v9B+WKfhWdy1iNLpKKQRKL4LGDxiyYxKanQ3ZrUn/vvNQ6OPh3HeHyXfqRkNsA1tYzA0o4iq4
+lmsLl7J4XIOKCdlhF5gs/FCEw/7+boe5CyOf6HZOtZIQjjlaaFLqc61j1ZDHOA89sXDXMHhMAoda
+uwFHCfedfjJmpT22LA0N9vTSUPV1/vYWiqx4X1ejX/mxNF3Zfny+HbNk7exhet6CSjSlf/Gf+9XJ
+fLNZmmyzkM1ySTDo/S8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA
+AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA
+CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAl1F368YAAADiAAAA
+DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==
 " fillcolor="#b68759" strokecolor="black [3213]" strokeweight="1pt"/>
  <v:rect id="Rectangle_x0020_203" o:spid="_x0000_s2059" style='position:absolute;
   left:10766;top:7817;width:5884;height:5407;visibility:visible;
@@ -3557,14 +3474,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQDQbnNZxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9LT8JA
-EL6b8B82Q+JNdqnhYWUhqBHBm/g4T7pj29CZbborFH+9a2Licb73LFY9N+pIXai9WBiPDCiSwrta
-Sgtvr49Xc1AhojhsvJCFMwVYLQcXC8ydP8kLHfexVClEQo4WqhjbXOtQVMQYRr4lSdyn7xhjOrtS
-uw5PKZwbnRkz1Yy1pIYKW7qvqDjsv9gCP8td+/5kkLPp7jtwsZk91B/WXg779S2oSH38F/+5ty7N
-v8kmk/nYXGfw+1MCQC9/AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA
-AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA
-AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhANBuc1nHAAAA4wAA
-AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=
+AAD//wMAUEsDBBQABgAIAAAAIQAaBZv9yQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9LT8Mw
+EITvSPwHaytxo05TSKpQt4IiXr31xXkVb5OI7DqKTRv49RgJieNoZr7RzJcDt+pEvW+cGJiME1Ak
+pbONVAb2u6frGSgfUCy2TsjAF3lYLi4v5lhYd5YNnbahUhEivkADdQhdobUva2L0Y9eRRO/oesYQ
+ZV9p2+M5wrnVaZJkmrGRuFBjR6uayo/tJxvgtTx0h5cEOc3evj2Xz/lj827M1Wi4vwMVaAj/4b/2
+qzVwk0+mt2mepfB7Kd4BvfgBAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAGgWb/ckAAADi
+AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
+AA==
 " fillcolor="white [3212]" strokecolor="black [3213]" strokeweight="1pt"/>
  <v:rect id="Rectangle_x0020_206" o:spid="_x0000_s2060" style='position:absolute;
   left:17652;top:1055;width:5328;height:5248;visibility:visible;
@@ -3577,13 +3495,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQBe2RJ3yQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw
-EH8f7DuEG/g2U3Xr1moUEYThEFzXgb4dzdkWm0ttMu2+/TIQ9ni//zdb9KYRF+pcbVnBaBiBIC6s
-rrlUkH+uH19BOI+ssbFMCn7IwWJ+fzfDVNsrf9Al86UIIexSVFB536ZSuqIig25oW+LAHW1n0Iez
-K6Xu8BrCTSPHURRLgzWHhgpbWlVUnLJvo6Af7573m+ycv2/K/Ks+5H6yclulBg/9cgrCU+//xTf3
-mw7zk2QUP8XxSwJ/PwUA5PwXAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQCQYT7NyQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw
+EH8f+B3CCXub6eostRpFhMFwDLTrQN+O5tYWm0vXZNp9+2Uw8PF+/2+5HkwrLtS7xrKCx0kEgri0
+uuFKQfH+/JCCcB5ZY2uZFPyQg/VqdLfETNsrH+iS+0qEEHYZKqi97zIpXVmTQTexHXHgPm1v0Iez
+r6Tu8RrCTSvjKEqkwYZDQ40dbWsqz/m3UTDE+9lxl38Vr7uq+GhOhZ9u3ZtS9+NhswDhafA38b/7
+RYf5Sfo0jWfpPIG/nwIAcvULAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
 AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAXtkSd8kAAADj
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAkGE+zckAAADj
 AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
 AA==
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
@@ -3617,13 +3535,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQC/qytcywAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9BS8NA
-FITvgv9heYI3s9uUVIndFikUpFKwMUJ7e2SfSTD7Ns2ubfrvXUHocZiZb5j5crSdONHgW8caJokC
-QVw503KtofxYPzyB8AHZYOeYNFzIw3JxezPH3Lgz7+hUhFpECPscNTQh9LmUvmrIok9cTxy9LzdY
-DFEOtTQDniPcdjJVaiYtthwXGuxp1VD1XfxYDWP6nu03xbF829TlZ3sow3Tlt1rf340vzyACjeEa
-/m+/Gg2PU5WlmZrM4O9SvANy8QsAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
+AAD//wMAUEsDBBQABgAIAAAAIQAZQO8mywAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA
+FITvgv9heYXe6kZrShNdRYRCsQg2jaC3R/Y1CWbfxuxW03/fFQoeh5n5hpkve9OIC3WutqxgPIpA
+EBdW11wqyL/enl5BOI+ssbFMCn7JwXIxHMwx1fbKn3TJfCkChF2KCirv21RKV1Rk0I1sSxy8b9sZ
+9EF2pdQdXgPcNHISRS/SYM1hocKW1hUVp+zHKOgnu/iwyc75x6bM9/Ux989rt1Xq8aFfzUB46v09
+/N9+1wriOJkm4ySewu1SuANy8QcAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
 AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA
-ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQC/qytcywAA
+ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAZQO8mywAA
 AOIAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA
 AAAA
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
@@ -3650,15 +3568,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQAPJDF7zAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA
-FITvBf/D8gRvdWNso6auUgShWAoaU2hvj+wzCWbfptmtpv++Wyh4HGbmG2a57k0jLtS52rKCyTgC
-QVxYXXOpID9u7+cgnEfW2FgmBT/kYL0a3C0x1fbKB7pkvhQBwi5FBZX3bSqlKyoy6Ma2JQ7eyXYG
-fZBdKXWH1wA3jYyjKJEGaw4LFba0qag4Z99GQR/vHz922Vf+uivz9/oz99ONe1NqNOyfn0B46v0t
-/N9+0QoWSbxIHmaTKfxdCndArn4BAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMA
-AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78A
-AAAVAQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEADyQxe8wA
-AADiAAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAAAD
-AAAAAA==
+AAD//wMAUEsDBBQABgAIAAAAIQAqwqQLywAAAOEAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/dasJA
+FITvhb7Dcgre6abrDzZ1lSIIohTaNIX27pA9TUKzZ9PsqvHtXaHQy2FmvmGW69424kSdrx1reBgn
+IIgLZ2ouNeTv29EChA/IBhvHpOFCHtaru8ESU+PO/EanLJQiQtinqKEKoU2l9EVFFv3YtcTR+3ad
+xRBlV0rT4TnCbSNVksylxZrjQoUtbSoqfrKj1dCr19nnPvvND/sy/6i/8jDZ+Beth/f98xOIQH34
+D/+1d0bDYqpm6lHN4fYovgG5ugIAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
+AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA
+ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAqwqQLywAA
+AOEAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA
+AAAA
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3683,15 +3601,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQAeM67RzAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA
-FITvQv/D8gq96cZtrTZ1lSIUikVoYwR7e2Rfk9Ds2zS7avz3rlDocZiZb5j5sreNOFLna8caxqME
-BHHhTM2lhnz7OpyB8AHZYOOYNJzJw3JxM5hjatyJP+mYhVJECPsUNVQhtKmUvqjIoh+5ljh6366z
-GKLsSmk6PEW4baRKkkdpsea4UGFLq4qKn+xgNfTqY7JfZ7/5+7rMd/VXHu5XfqP13W3/8gwiUB/+
-w3/tN6PhSY0n6mGmpnC9FO+AXFwAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMA
-AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78A
-AAAVAQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAHjOu0cwA
-AADiAAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAAAD
-AAAAAA==
+AAD//wMAUEsDBBQABgAIAAAAIQC57LZ6zQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9BS8NA
+EIXvQv/DMgVvdmPEpk27LVIQpCLYNIK9DdkxCWZnY3Zt4793DoLHmffmvW/W29F16kxDaD0buJ0l
+oIgrb1uuDZTHx5sFqBCRLXaeycAPBdhuJldrzK2/8IHORayVhHDI0UATY59rHaqGHIaZ74lF+/CD
+wyjjUGs74EXCXafTJJlrhy1LQ4M97RqqPotvZ2BMX+/f98VX+byvy7f2VMa7XXgx5no6PqxARRrj
+v/nv+skK/jJbLrIsnQu0/CQL0JtfAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAAT
+AAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/
+AAAAFQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhALnstnrN
+AAAA4wAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAAB
+AwAAAAA=
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3716,14 +3634,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQDP2pCVyAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9da8Iw
-FH0f7D+EO/BtpqZs084oQxiIMnC1gnu7NNe2rLnpmkzrv18Ggz0ezvd8OdhWnKn3jWMNk3ECgrh0
-puFKQ7F/vZ+C8AHZYOuYNFzJw3JxezPHzLgLv9M5D5WIIewz1FCH0GVS+rImi37sOuLInVxvMUTY
-V9L0eInhtpUqSR6lxYZjQ40drWoqP/Nvq2FQu4fjJv8qtpuqODQfRUhX/k3r0d3w8gwi0BD+xX/u
-tYnzZ6lS06dUwe+liEEufgAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAA
-AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUB
-AAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDP2pCVyAAAAOIA
-AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQBLWMQJyQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw
+EH8f7DuEE/Y2U61ztRpFhIE4hNl1MN+O5mzLmkttMu2+/TIY+Hi//7dY9aYRF+pcbVnBaBiBIC6s
+rrlUkL+/PCYgnEfW2FgmBT/kYLW8v1tgqu2VD3TJfClCCLsUFVTet6mUrqjIoBvaljhwJ9sZ9OHs
+Sqk7vIZw08hxFE2lwZpDQ4UtbSoqvrJvo6Afvz197rJz/ror84/6mPt44/ZKPQz69RyEp97fxP/u
+rQ7zk0n8nCSzeAp/PwUA5PIXAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAS1jECckAAADj
+AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
+AA==
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3748,15 +3667,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQC4TdKBywAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA
-FITvQv/D8gq96caUSJq6igiFYhE0TaG9PbLPJJh9G7Nbjf++WxA8DjPzDTNfDqYVZ+pdY1nBdBKB
-IC6tbrhSUHy+jVMQziNrbC2Tgis5WC4eRnPMtL3wns65r0SAsMtQQe19l0npypoMuontiIN3sL1B
-H2RfSd3jJcBNK+MomkmDDYeFGjta11Qe81+jYIh3yfcmPxUfm6r4an4K/7x2W6WeHofVKwhPg7+H
-b+13rSCJZvFLkqZT+L8U7oBc/AEAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
-AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA
-ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQC4TdKBywAA
-AOIAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA
-AAAA
+AAD//wMAUEsDBBQABgAIAAAAIQAO0UCnyQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Na8JA
+EL0L/Q/LCN6ajRHTmrqKCIJYhDZNob0N2WkSmp2N2VXTf+8eCh4f73u5HkwrLtS7xrKCaRSDIC6t
+brhSUHzsHp9BOI+ssbVMCv7IwXr1MFpipu2V3+mS+0qEEHYZKqi97zIpXVmTQRfZjjhwP7Y36APs
+K6l7vIZw08okjlNpsOHQUGNH25rK3/xsFAzJ2/zrkJ+K10NVfDbfhZ9t3VGpyXjYvIDwNPi7+N+9
+1woWT3GSpIs0bA6Xwh2QqxsAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEADtFAp8kAAADi
+AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
+AA==
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3781,14 +3700,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQA7rEp/yAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Na8JA
-EL0X/A/LFLzVjZGUkLoJRRCKItiYQnsbstMkNDubZldN/333IHh8vO91MZleXGh0nWUFy0UEgri2
-uuNGQXXaPqUgnEfW2FsmBX/koMhnD2vMtL3yO11K34gQwi5DBa33Qyalq1sy6BZ2IA7ctx0N+gDH
-RuoRryHc9DKOomdpsOPQ0OJAm5bqn/JsFEzxMfnclb/VftdUH91X5Vcbd1Bq/ji9voDwNPm7+OZ+
-0wpWSbKMkzQOm8OlcAdk/g8AAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAA
-AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUB
-AAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQA7rEp/yAAAAOIA
-AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQBqsCZGzAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/dasJA
+FITvC32H5Qi9qxt/UmPqKiIUxFKoMYLeHbKnSWj2bMxuNX37bqHQy2FmvmEWq9404kqdqy0rGA0j
+EMSF1TWXCvLDy2MCwnlkjY1lUvBNDlbL+7sFptreeE/XzJciQNilqKDyvk2ldEVFBt3QtsTB+7Cd
+QR9kV0rd4S3ATSPHUfQkDdYcFipsaVNR8Zl9GQX9+D0+7bJL/ror82N9zv1k496Uehj062cQnnr/
+H/5rb7WCWTJJZnE8n8LvpXAH5PIHAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMA
+AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78A
+AAAVAQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAarAmRswA
+AADiAAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAAAD
+AAAAAA==
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3813,15 +3733,15 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQBMX8a7yQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw
-EH8X/A7hhL1pqq6inVGGMBiOgdYK+nY0t7asuXRNpt23N8LAx/v9v+W6M7W4UOsqywrGowgEcW51
-xYWC7PA2nINwHlljbZkU/JGD9arfW2Ki7ZX3dEl9IUIIuwQVlN43iZQuL8mgG9mGOHBftjXow9kW
-Urd4DeGmlpMomkmDFYeGEhvalJR/p79GQTfZxadt+pN9bIvsWJ0zP924T6WeBt3rCwhPnX+I/93v
-Oswfx/HzYj6Lp3D/KQAgVzcAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
-AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEATF/Gu8kAAADj
-AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
-AA==
+AAD//wMAUEsDBBQABgAIAAAAIQBfOZrVywAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA
+FITvQv/D8oTedKNB0egqRSgUS6HGCHp7ZJ9JMPs2zW41/feuUPA4zMw3zHLdmVpcqXWVZQWjYQSC
+OLe64kJBtn8fzEA4j6yxtkwK/sjBevXSW2Ki7Y13dE19IQKEXYIKSu+bREqXl2TQDW1DHLyzbQ36
+INtC6hZvAW5qOY6iqTRYcVgosaFNSfkl/TUKuvH35LhNf7LPbZEdqlPm4437Uuq1370tQHjq/DP8
+3/7QCmbT+SSej6IYHpfCHZCrOwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
+AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA
+ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBfOZrVywAA
+AOIAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA
+AAAA
 " fillcolor="#d0b294" strokecolor="black [3213]" strokeweight="1pt">
   <v:textbox>
    <![if !mso]>
@@ -3847,19 +3767,19 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQC0yskpygAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RagIx
-FETfC/5DuIJvNatYo6tRpKV0Hyyl1g+4bK67225uliTq+veNUOjjMDNnmPW2t624kA+NYw2TcQaC
-uHSm4UrD8ev1cQEiRGSDrWPScKMA283gYY25cVf+pMshViJBOOSooY6xy6UMZU0Ww9h1xMk7OW8x
-JukraTxeE9y2cpplc2mx4bRQY0fPNZU/h7PV0KjT+5stlkrd0H8UZfze97MXrUfDfrcCEamP/+G/
-dmE0zBbz5VRl6gnul9IdkJtfAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQC/zhqjygAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/NasMw
+EITvhb6D2EJvjdwSrNiJEkpLqA8tIT8PsFgb26m1MpKSOG9fFQo9DjPzDbNYjbYXF/Khc6zheZKB
+IK6d6bjRcNivn2YgQkQ22DsmDTcKsFre3y2wNO7KW7rsYiMShEOJGtoYh1LKULdkMUzcQJy8o/MW
+Y5K+kcbjNcFtL1+yLJcWO04LLQ701lL9vTtbDZ06fn3YqlDqhn5T1fH0OU7ftX58GF/nICKN8T/8
+166MhiLPVZFNcwW/l9IdkMsfAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA
 AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA
-FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhALTKySnKAAAA
+FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAL/OGqPKAAAA
 4gAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA
 AAA=
 " path="m98294,176710l184362,83059,294219,184020,404075,83059r86068,93651l388204,270396r101939,93686l404075,457733,294219,356772,184362,457733,98294,364082,200233,270396,98294,176710xe"
   fillcolor="black [3200]" strokecolor="black [1600]" strokeweight="1pt">
   <v:stroke joinstyle="miter"/>
-  <v:path arrowok="t" o:connecttype="custom" o:connectlocs="98234,176790;184252,83099;294039,184110;403825,83099;489843,176790;387964,270526;489843,364262;403825,457953;294039,356942;184252,457953;98234,364262;200113,270526;98234,176790"
+  <v:path arrowok="t" o:connecttype="custom" o:connectlocs="98246,176774;184274,83091;294075,184092;403875,83091;489903,176774;388012,270500;489903,364226;403875,457909;294075,356908;184274,457909;98246,364226;200137,270500;98246,176774"
    o:connectangles="0,0,0,0,0,0,0,0,0,0,0,0,0"/>
  </v:shape><v:rect id="Rectangle_x0020_209" o:spid="_x0000_s2069" style='position:absolute;
   left:13271;top:4761;width:871;height:5608;visibility:visible;
@@ -3872,14 +3792,14 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQC3FVXdxgAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/LasMw
-EEX3hf6DmEJ3jdSQpLZrOZRCIdsmgXQ5SFPL1BoZS4mdv48WgS4v98Wpt7PvxYXG2AXW8LpQIIhN
-sB23Go6Hr5cCREzIFvvApOFKEbbN40ONlQ0Tf9Nln1qRRzhWqMGlNFRSRuPIY1yEgTh7v2H0mLIc
-W2lHnPK47+VSqY302HF+cDjQpyPztz97DefYHU+lWofVz4HdZKXZmLdC6+en+eMdRKI5/Yfv7Z3V
-UC6LslSrdYbISBkHZHMDAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA
-AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA
-CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAtxVV3cYAAADiAAAA
-DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==
+AAD//wMAUEsDBBQABgAIAAAAIQBAgdoQxQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw
+EH8X9h3CDfamqXPW2hlFBGGvU0Efj+TWlDWX0kTbfXsjCHu83/9bbQbXiBt1ofasYDrJQBBrb2qu
+FJyO+3EBIkRkg41nUvBHATbrl9EKS+N7/qbbIVYihXAoUYGNsS2lDNqSwzDxLXHifnznMKazq6Tp
+sE/hrpHvWZZLhzWnBost7Szp38PVKbiG+nReZnP/cTmy7Y3UuV4USr29DttPEJGG+C9+ur9Mmr/I
+l9NZPivm8PgpASDXdwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAA
+AAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAAL
+AAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBAgdoQxQAAAOMAAAAP
+AAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA+QIAAAAA
 " fillcolor="yellow" strokecolor="black [3213]" strokeweight="1pt"/>
  <v:oval id="Oval_x0020_208" o:spid="_x0000_s2070" style='position:absolute;
   left:12708;top:9659;width:1936;height:1952;visibility:visible;
@@ -3892,13 +3812,13 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQCRkMDZyQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fS8Mw
-EH8X/A7hBF9kS1fs5uqyoUJhwhDc9uLbkZxtsbnUJrbdtzeDwR7v9/9Wm9E2oqfO144VzKYJCGLt
-TM2lguOhmDyB8AHZYOOYFJzIw2Z9e7PC3LiBP6nfh1LEEPY5KqhCaHMpva7Iop+6ljhy366zGOLZ
-ldJ0OMRw28g0SebSYs2xocKW3irSP/s/qwC/fiXvhteHYveo39PFVhYfulfq/m58eQYRaAxX8cW9
-NXH+fJYtl1maZnD+KQIg1/8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
+AAD//wMAUEsDBBQABgAIAAAAIQAFO2ZQyQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9LS8NA
+EL4L/Q/LCF7EbhpqNLHbokKgQin0cfE27I5JMDubZtck/ntXEDzO957VZrKtGKj3jWMFi3kCglg7
+03Cl4Hwq7x5B+IBssHVMCr7Jw2Y9u1phYdzIBxqOoRIxhH2BCuoQukJKr2uy6OeuI47ch+sthnj2
+lTQ9jjHctjJNkkxabDg21NjRa0368/hlFeD7RfJufLktd0v9lj5sZbnXg1I319PzE4hAU/gX/7m3
+Js7P8vw+S5f5An5/igDI9Q8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
 AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAkZDA2ckAAADj
+AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEABTtmUMkAAADj
 AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
 AA==
 " fillcolor="yellow" strokecolor="yellow" strokeweight="1pt">
@@ -3914,26 +3834,25 @@ AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0
 X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w
 Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR
 gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A
-AAD//wMAUEsDBBQABgAIAAAAIQBhU22nyQAAAOEAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9NS8NA
-EIbvgv9hGcFLaTdRCDV2W0pFyUGEtvbgbZods7HZ2ZAd2/jv3YPg8eX94lmsRt+pMw2xDWwgn2Wg
-iOtgW24MvO+fp3NQUZAtdoHJwA9FWC2vrxZY2nDhLZ130qg0wrFEA06kL7WOtSOPcRZ64uR9hsGj
-JDk02g54SeO+03dZVmiPLacHhz1tHNWn3bc38FGN0nzlL/J6wslhUrlj/fZ0NOb2Zlw/ghIa5T/8
-166sgSIr7ouHPDEkokQDevkLAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA
-AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV
-AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAYVNtp8kAAADh
-AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA
-AA==
+AAD//wMAUEsDBBQABgAIAAAAIQDR4c1oywAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9NS8NA
+EIbvgv9hGcFLsZsUrSbttoii5CBCqx56m2bHbGx2NmTHNv579yB4fHm/eJbr0XfqSENsAxvIpxko
+4jrYlhsD729PV3egoiBb7AKTgR+KsF6dny2xtOHEGzpupVFphGOJBpxIX2oda0ce4zT0xMn7DINH
+SXJotB3wlMZ9p2dZNtceW04PDnt6cFQftt/ewK4apfnKn+XlgJOPSeX29evj3pjLi/F+AUpolP/w
+X7uyBmbZ7c11kRdFokhMiQf06hcAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA
+AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA
+ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDR4c1oywAA
+AOMAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA
+AAAA
 " filled="f" strokecolor="black [3213]" strokeweight="1pt"/>
  <w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=287 height=256
-src="FanucRobotOperatorSOPen_files/image050.png" v:shapes="Canvas_x0020_199 _x0000_s2053 Rectangle_x0020_211 Straight_x0020_Connector_x0020_200 Straight_x0020_Connector_x0020_106 Straight_x0020_Connector_x0020_201 Rectangle_x0020_202 Rectangle_x0020_203 Rectangle_x0020_206 Rectangle_x0020_127 Rectangle_x0020_128 Rectangle_x0020_129 Rectangle_x0020_130 Rectangle_x0020_131 Rectangle_x0020_132 Rectangle_x0020_133 Multiplication_x0020_Sign_x0020_207 Rectangle_x0020_209 Oval_x0020_208 Rectangle_x0020_210"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+</v:group><![endif]--><![if !vml]><img width=287 height=257
+src="FanucRobotOperatorSOPen_files/image074.png" v:shapes="Canvas_x0020_199 _x0000_s2053 Rectangle_x0020_211 Straight_x0020_Connector_x0020_200 Straight_x0020_Connector_x0020_106 Straight_x0020_Connector_x0020_201 Rectangle_x0020_202 Rectangle_x0020_203 Rectangle_x0020_206 Rectangle_x0020_127 Rectangle_x0020_128 Rectangle_x0020_129 Rectangle_x0020_130 Rectangle_x0020_131 Rectangle_x0020_132 Rectangle_x0020_133 Multiplication_x0020_Sign_x0020_207 Rectangle_x0020_209 Oval_x0020_208 Rectangle_x0020_210"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1047" type="#_x0000_t75" style='width:214.15pt;height:185.4pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
 </v:shape><span style='mso-element:field-end'></span><![endif]--></p>
 
-<p class=MsoNormal>LAYER – The current layer that the last box was placed <span
-class=GramE>on</span></p>
+<p class=MsoNormal>LAYER – The current layer that the last box was placed on</p>
 
 <p class=MsoNormal>UNIT – The number of boxes currently on the layer</p>
 
@@ -3950,13 +3869,13 @@ more boxes (8 boxes total) – LAYER: 1 UNIT: 8</p>
 more boxes (11 boxes total) – LAYER: 2 UNIT: 3</p>
 
 <p class=MsoNormal>*Note: New pallets will show - LAYER: 0 UNIT: 0. See CYC#8
-in <span class=GramE>above</span> image.</p>
+in above image.</p>
 
 <p class=MsoNormal><b><u>CHECK<o:p></o:p></u></b></p>
 
 <p class=MsoNormal>This is what you do if you only need to check the values and
-not change them. Navigate to the “STATUS: <span class=SpellE>Prodn</span> Data”
-screen on the HMI. Here is the display – </p>
+not change them. Navigate to the “STATUS: Prodn Data” screen on the HMI. Here
+is the display – </p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
@@ -3965,13 +3884,13 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_29" o:spid="_x0000_i1046"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image101.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=405 height=307
-src="FanucRobotOperatorSOPen_files/image051.jpg" alt=Image v:shapes="Picture_x0020_29"><![endif]></span><br
+src="FanucRobotOperatorSOPen_files/image079.jpg" alt=Image v:shapes="Picture_x0020_29"><![endif]></span><br
 clear=all style='mso-special-character:line-break;page-break-before:always'>
 <b><span style='font-size:18.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
 mso-fareast-theme-font:major-fareast;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
 minor-latin'><o:p></o:p></span></b></p>
 
-<h1><a name="_Toc167113513">Robot Faults and Errors</a></h1>
+<h1><a name="_Toc138871693">Robot Faults and Errors</a></h1>
 
 <p class=MsoNormal>When the robot encounters faults and errors it becomes necessary
 for human interaction with the robot. This is not a definitive list of how to
@@ -4004,9 +3923,8 @@ alt="A screen shot of a computer&#10;&#10;Description automatically generated wi
 v:shapes="Picture_x0020_31"><![endif]></span></p>
 
 <p class=MsoNormal><i>Note: If an alarm prompt appears do not navigate away
-from it. There is no back <span class=GramE>function</span> and you cannot
-access the prompt again. If you do accidentally close the prompt, abort all and
-start again. <o:p></o:p></i></p>
+from it. There is no back function and you cannot access the prompt again. If
+you do accidentally close the prompt, abort all and start again. <o:p></o:p></i></p>
 
 <p class=MsoNormal align=center style='text-align:center'><!--[if mso & !supportInlineShapes & supportFields]><span
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
@@ -4064,8 +3982,8 @@ AAAAAAQABADzAAAAfgUAAAAA
   <![endif]></v:textbox>
  <w:wrap type="none"/>
  <w:anchorlock/>
-</v:shape><![endif]--><![if !vml]><img width=382 height=58
-src="FanucRobotOperatorSOPen_files/image054.png"
+</v:shape><![endif]--><![if !vml]><img width=382 height=57
+src="FanucRobotOperatorSOPen_files/image081.png"
 alt="Text Box: Pressing function then aborting the program and removing the first box on the conveyor will clear most faults. &#13;&#10;&#13;&#10;"
 v:shapes="Text_x0020_Box_x0020_90"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1043" type="#_x0000_t75" style='width:281.3pt;height:38.5pt'>
@@ -4074,7 +3992,7 @@ v:shapes="Text_x0020_Box_x0020_90"><![endif]><!--[if mso & !supportInlineShapes 
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
-<h2><a name="_Toc167113514">Dropped Box</a></h2>
+<h2><a name="_Toc138871694">Dropped Box</a></h2>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_33"
@@ -4089,9 +4007,8 @@ triggers the robot to have a vacuum sensor fault. Identify if the box has been
 dropped or if there is a false alarm. If it has been dropped, press (2) on the
 HMI. If it is a false alarm, press (1).</p>
 
-<p class=MsoNormal>When the box has been dropped, <span class=GramE>collect</span>
-and remove the remnants of the box and any scattered bags. Place these bags
-into a fresh box.</p>
+<p class=MsoNormal>When the box has been dropped, collect and remove the
+remnants of the box and any scattered bags. Place these bags into a fresh box.</p>
 
 <p class=MsoNormal>Make sure to place the correct label on the new box. Then,
 place these boxes back onto the conveyor. You may choose to seal the box or
@@ -4107,14 +4024,13 @@ src="FanucRobotOperatorSOPen_files/image061.png"
 alt="A conveyor belt in a warehouse&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_34"><![endif]></span></p>
 
-<p class=MsoNormal>If unsealed, place before the <span class=SpellE>prepresser</span>
-so that it may be pressed and sealed. Adjust the number of cases in the HMI to
-the correct number of boxes on each pallet (page 13). <b>DO NOT LET THE CASES
-TOUCH<o:p></o:p></b></p>
+<p class=MsoNormal>If unsealed, place before the prepresser so that it may be
+pressed and sealed. Adjust the number of cases in the HMI to the correct number
+of boxes on each pallet (page 13). <b>DO NOT LET THE CASES TOUCH<o:p></o:p></b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2><a name="_Toc167113515">Smashed Box</a></h2>
+<h2><a name="_Toc138871695">Smashed Box</a></h2>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_35"
@@ -4188,8 +4104,8 @@ AAAAAAQABADzAAAAfgUAAAAA
   <![endif]></v:textbox>
  <w:wrap type="none"/>
  <w:anchorlock/>
-</v:shape><![endif]--><![if !vml]><img width=452 height=78
-src="FanucRobotOperatorSOPen_files/image058.png"
+</v:shape><![endif]--><![if !vml]><img width=452 height=77
+src="FanucRobotOperatorSOPen_files/image083.png"
 alt="Text Box: Hard to remove a stuck box? Start the robot and immediately press the yellow button. It will return to the perch position Make sure to abort the program once you are finished removing the damaged boxes."
 v:shapes="Text_x0020_Box_x0020_86"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1039" type="#_x0000_t75" style='width:334.05pt;height:53.6pt'>
@@ -4210,14 +4126,13 @@ src="FanucRobotOperatorSOPen_files/image065.png"
 alt="A conveyor belt in a warehouse&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_37"><![endif]></span></p>
 
-<p class=MsoNormal>If unsealed, place before the <span class=SpellE>prepresser</span>
-so that it may be pressed and sealed. Adjust the number of cases in the HMI to
-the correct number of boxes on each pallet (page 13). <b>DO NOT LET THE CASES
-TOUCH<o:p></o:p></b></p>
+<p class=MsoNormal>If unsealed, place before the prepresser so that it may be
+pressed and sealed. Adjust the number of cases in the HMI to the correct number
+of boxes on each pallet (page 13). <b>DO NOT LET THE CASES TOUCH<o:p></o:p></b></p>
 
 <p class=MsoNormal><b><o:p>&nbsp;</o:p></b></p>
 
-<h2><a name="_Toc167113516">A-B-A Error</a></h2>
+<h2><a name="_Toc138871696">A-B-A Error</a></h2>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_38"
@@ -4228,37 +4143,37 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_38"
 src="FanucRobotOperatorSOPen_files/image067.png" v:shapes="Picture_x0020_38"><![endif]></span></p>
 
 <p class=MsoNormal>This error is caused by a glitch in the program under VERY
-specific circumstances. To describe <span class=GramE>this</span> we will refer
-to Case A as cases that contain bag type A, and Case B as cases that contain
-bag type B. Case A and Case B are both labeled to go to the same pallet. Here
-is what must happen for this error to occur:</p>
+specific circumstances. To describe this we will refer to Case A as cases that
+contain bag type A, and Case B as cases that contain bag type B. Case A and
+Case B are both labeled to go to the same pallet. Here is what must happen for
+this error to occur:</p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l7 level1 lfo4'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l6 level1 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>(1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>The robot receives case type A and places this
 case on a buffer.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l7 level1 lfo4'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>(2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>The pallet case that A and B are assigned to is
 indexed (removed) and a fresh pallet is put in.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l7 level1 lfo4'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>(3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>The robot receives case type B and places it on
 the new pallet.</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l7 level1 lfo4'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l6 level1 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>(4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>The robot receives case type A again.</p>
 
-<p class=MsoNormal>This causes the robot to fail to run <span class=GramE>task</span>
-because it cannot reconcile the buffer case with the pallet case. The best
-method for addressing this issue is prevention.</p>
+<p class=MsoNormal>This causes the robot to fail to run task because it cannot
+reconcile the buffer case with the pallet case. The best method for addressing
+this issue is prevention.</p>
 
 <p class=MsoNormal><b>PREVENTION:</b> To prevent this A-B-A Error, when a
 pallet is indexed for being the last of an order, check to make sure that there
@@ -4266,10 +4181,10 @@ are no cases of the same type (ID) as the removed pallet in any of the buffers.
 If there are cases of the same type (ID) in a buffer, remove the case, and
 clear the number of buffered cases in the HMI (page 13).</p>
 
-<p class=MsoNormal><span class=SpellE><b>OCCURANCE</b></span><b>: </b>If
-prevention has failed, the solution is much more involved but is very similar
-to the procedure for adjusting the number of cases. It is recommended that you
-bring the supervisor for assistance. </p>
+<p class=MsoNormal><b>OCCURANCE: </b>If prevention has failed, the solution is
+much more involved but is very similar to the procedure for adjusting the
+number of cases. It is recommended that you bring the supervisor for
+assistance. </p>
 
 <p class=MsoNormal>Press (MENU) and navigate to the [DATA] and select [String
 Registers]</p>
@@ -4281,23 +4196,21 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_39" o:spid="_x0000_i1036"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image214.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=567 height=420
-src="FanucRobotOperatorSOPen_files/image064.jpg" alt=Image v:shapes="Picture_x0020_39"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image086.jpg" alt=Image v:shapes="Picture_x0020_39"><![endif]></span></p>
 
-<p class=MsoNormal>Use the arrow keys to navigate down to <span class=GramE>SR[</span>28:
-Pal8 ID <span class=SpellE>ON_PAL</span><span style='mso-spacerun:yes'>   
-</span>]</p>
+<p class=MsoNormal>Use the arrow keys to navigate down to SR[28: Pal8 ID
+ON_PAL<span style='mso-spacerun:yes'>    </span>]</p>
 
-<p class=MsoNormal><span class=GramE>SR[</span>21 to SR[28 tell you the ID on
-all the pallets</p>
+<p class=MsoNormal>SR[21 to SR[28 tell you the ID on all the pallets</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
-yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_40" o:spid="_x0000_i1035"
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_42" o:spid="_x0000_i1035"
  type="#_x0000_t75" alt="Image" style='width:408pt;height:297.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image216.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=544 height=397
-src="FanucRobotOperatorSOPen_files/image068.jpg" alt=Image v:shapes="Picture_x0020_40"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image088.jpg" alt=Image v:shapes="Picture_x0020_42"><![endif]></span></p>
 
 <p class=MsoNormal>Compare these case ID numbers with the case ID numbers of
 recently removed pallet. Going further down on the DATA String Registers page
@@ -4310,7 +4223,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_41" o:spid="_x0000_i1034"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image218.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=486 height=361
-src="FanucRobotOperatorSOPen_files/image071.jpg" alt=Image v:shapes="Picture_x0020_41"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image089.jpg" alt=Image v:shapes="Picture_x0020_41"><![endif]></span></p>
 
 <p class=MsoNormal>When a buffer has cases, it will show the ID of the cases
 instead of ‘empty’. </p>
@@ -4323,17 +4236,16 @@ pallet that has case B. </p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Press the Function (<span class=SpellE>FCTN</span>) Button
-on the HMI. This will bring up the function popout.</p>
+<p class=MsoNormal>Press the Function (FCTN) Button on the HMI. This will bring
+up the function popout.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-font-family:"Times New Roman";color:#212121;mso-no-proof:
-yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_42" o:spid="_x0000_i1033"
- type="#_x0000_t75" alt="Image" style='width:377.25pt;height:289.5pt;
- visibility:visible;mso-wrap-style:square'>
+yes'><!--[if gte vml 1]><v:shape id="_x0000_i1033" type="#_x0000_t75" alt="Image"
+ style='width:377.25pt;height:289.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image084.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=503 height=386
-src="FanucRobotOperatorSOPen_files/image072.jpg" alt=Image v:shapes="Picture_x0020_42"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image090.jpg" alt=Image v:shapes="_x0000_i1033"><![endif]></span></p>
 
 <p class=MsoNormal>Select ABORT (ALL) by tapping [ABORT (ALL)] or pressing (1).</p>
 
@@ -4367,7 +4279,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_44" o:spid="_x0000_i1031"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image091.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=497 height=365
-src="FanucRobotOperatorSOPen_files/image075.jpg" alt=Image v:shapes="Picture_x0020_44"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image092.jpg" alt=Image v:shapes="Picture_x0020_44"><![endif]></span></p>
 
 <p class=MsoNormal>Press (ENTER)</p>
 
@@ -4381,7 +4293,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_45" o:spid="_x0000_i1030"
  mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image094.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=506 height=364
-src="FanucRobotOperatorSOPen_files/image077.jpg" alt=Image v:shapes="Picture_x0020_45"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image093.jpg" alt=Image v:shapes="Picture_x0020_45"><![endif]></span></p>
 
 <p class=MsoNormal>This will bring you to this screen:</p>
 
@@ -4392,14 +4304,14 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_46" o:spid="_x0000_i1029"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="FanucRobotOperatorSOPen_files/image097.jpg" o:title="Image"/>
 </v:shape><![endif]--><![if !vml]><img width=451 height=324
-src="FanucRobotOperatorSOPen_files/image078.jpg" alt=Image v:shapes="Picture_x0020_46"><![endif]></span></p>
+src="FanucRobotOperatorSOPen_files/image095.jpg" alt=Image v:shapes="Picture_x0020_46"><![endif]></span></p>
 
 <p class=MsoNormal>Here you can go through and adjust the number of cases on
 each pallet.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2><a name="_Toc167113517">Barcode Read Error</a></h2>
+<h2><a name="_Toc138871697">Barcode Read Error</a></h2>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_47"
@@ -4411,128 +4323,126 @@ src="FanucRobotOperatorSOPen_files/image082.png" v:shapes="Picture_x0020_47"><![
 
 <p class=MsoNormal>This error occurs when the barcode cannot be read. Follow
 proper procedure to stop the robot and enter the cell. Check that the box’s
-orientation is correct and <span class=GramE>assure</span> that the box is
-labeled. If one or <span class=GramE>both of these</span> are not done,
-correctly orient and label the case. <b>DO NOT PUSH THE CASE BACK. DO NOT LET
-THE CASES TOUCH. </b><span style='mso-spacerun:yes'> </span>Once this has been
-done, place the corrected box back on the conveyor and start the robot.</p>
+orientation is correct and assure that the box is labeled. If one or both of
+these are not done, correctly orient and label the case. <b>DO NOT PUSH THE
+CASE BACK. DO NOT LET THE CASES TOUCH. </b><span
+style='mso-spacerun:yes'> </span>Once this has been done, place the corrected
+box back on the conveyor and start the robot.</p>
 
-<h2><a name="_Toc167113518">Incorrect Index Time</a></h2>
+<h2><a name="_Toc138871698">Incorrect Index Time</a></h2>
 
-<p class=MsoNormal>On rare <span class=GramE>occasion</span> the robot will
-indicate that a pallet is ready to be indexed when it is not. Here is how to
-proceed when this incorrect indexing occurs.</p>
+<p class=MsoNormal>On rare occasion the robot will indicate that a pallet is
+ready to be indexed when it is not. Here is how to proceed when this incorrect
+indexing occurs.</p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press the yellow button to stop the robot.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Remove the pallet that is falsely indexed from
 its location.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Place the pallet back into the palletizing
 bracket. This clears the index error but also resets the case count to 0.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Exit the cell. Do <b>not </b>start the robot
 yet.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=GramE>Abort</span> the program in
-the HMI.</p>
+</span></span></span><![endif]>Abort the program in the HMI.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press the blue button and then the green button.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>7)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Follow the prompted procedures. Remove the first
 box from the pickup zone.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>8)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Adjust the number of boxes on the pallet to the
 corrected number and layer.</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l6 level1 lfo5'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>9)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press the blue button and then the green button
 to start the robot.</p>
 
-<h2><a name="_Toc167113519">Buffer Mismatch Error</a></h2>
+<h2><a name="_Toc138871699">Buffer Mismatch Error</a></h2>
 
 <p class=MsoNormal>Here are the steps to take if there is a Buffer Mismatch error.
 This error can be noted by the flashing red light instead of the typical solid
 red for an error.</p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press the yellow button to stop the robot.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Check the HMI buffers screen. Next to one of the
 buffers should be a red dot indicating an error.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Empty the cases from the buffer that has the red
 dot. Make sure to also clear the case numbers (both) from the HMI.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=GramE>Abort</span> the program in
-the HMI.</p>
+</span></span></span><![endif]>Abort the program in the HMI.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press the blue and then the green button.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Follow the prompted procedures on the HMI.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>7)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Adjust the number of boxes to the correct number
 and layer if needed.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>8)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press done on the HMI.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>9)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Wait while the robot places a few boxes. The
 robot may throw the error again, and if this happens repeat steps 1-8. This
 time it will show a different buffer with the red dot.</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l5 level1 lfo6'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l4 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>10)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]>If the problem persists, then the incoming boxes
@@ -4547,18 +4457,17 @@ style='mso-special-character:line-break;page-break-before:always'>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2><a name="_Toc167113520">MAIN Page Disappeared</a></h2>
+<h2><a name="_Toc138871700">MAIN Page Disappeared</a></h2>
 
 <p class=MsoNormal>This can occur by accident when trying to resolve a
 different error. Typically to access the MAIN page you press the (MENU) button
 then tap [MAIN] on the screen. If after pressing (MENU), the [MAIN] option does
 not appear on the screen, follow these steps.</p>
 
-<p class=MsoListParagraph style='text-indent:-.25in;mso-list:l2 level1 lfo7'><![if !supportLists]><span
+<p class=MsoListParagraph style='text-indent:-.25in;mso-list:l1 level1 lfo7'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Press the function (<span class=SpellE>FCTN</span>)
-<span class=GramE>button</span></p>
+</span></span></span><![endif]>Press the function (FCTN) button</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_48" o:spid="_x0000_i1027" type="#_x0000_t75" alt="A picture containing text, screenshot, indoor&#10;&#10;Description automatically generated"
@@ -4569,12 +4478,12 @@ src="FanucRobotOperatorSOPen_files/image085.png"
 alt="A picture containing text, screenshot, indoor&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_48"><![endif]></span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l2 level1 lfo7'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l1 level1 lfo7'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Press the left arrow on the <span class=GramE>keypad</span></p>
+</span></span></span><![endif]>Press the left arrow on the keypad</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo7'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l1 level1 lfo7'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Press (1) to select QUICK/FULL MENUS</p>
@@ -4588,73 +4497,48 @@ src="FanucRobotOperatorSOPen_files/image087.png"
 alt="A screenshot of a computer&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_1"><![endif]></span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l2 level1 lfo7'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l1 level1 lfo7'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Press the (MENU) <span class=GramE>button</span></p>
+</span></span></span><![endif]>Press the (MENU) button</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo7'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l1 level1 lfo7'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Tap [MAIN] on the <span class=GramE>screen</span></p>
+</span></span></span><![endif]>Tap [MAIN] on the screen</p>
 
-<h2><a name="_Toc167113521">Robot Won’t Place Box on Pallet</a></h2>
+<h2><a name="_Toc138871701">Robot Won’t Place Box on Pallet</a></h2>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l7 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Make sure the robot is otherwise running as <span
-class=GramE>normal</span></p>
+</span></span></span><![endif]>Make sure the robot is otherwise running as
+normal</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l7 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Check that the label on the box is printed
-correctly and that the QR code is reading <span class=GramE>correctly</span></p>
+correctly and that the QR code is reading correctly</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l7 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Check the keys on all the safety gates. Make
 sure that none of the red LED lights are on.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l7 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Check that the pallet is fully inserted into the
 yellow barrier.</p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l7 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Check that the sensors on both the left and
 right side of the pallet are reading close to 0. If any is reading above 50,
-adjust the pallet <span class=GramE>position</span></p>
-
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l8 level1 lfo8'><![if !supportLists]><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
-style='mso-list:Ignore'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Check that the box count for the pallet is one
-of the acceptable patterns (56, 80 or 88 cases per pallet)</p>
-
-<h2><a name="_Toc167113522">Robot is Stuck and Not Responding with No Errors</a></h2>
-
-<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l1 level1 lfo9'><![if !supportLists]><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
-style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Try starting the robot from the main screen in
-the HMI. For whatever reason, this sometimes works when pressing the physical
-buttons does not.<span style='mso-spacerun:yes'>  </span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l1 level1 lfo9'><![if !supportLists]><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
-style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Power Cycle the robot.</p>
-
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l1 level1 lfo9'><![if !supportLists]><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
-style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Have an engineer load the program from a backup.</p>
+adjust the pallet position</p>
 
 </div>
 
